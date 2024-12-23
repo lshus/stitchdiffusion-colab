@@ -5,7 +5,7 @@
 
 ### I have implemented stitchdiffusion based on diffusers to generate 360-degree panoramas through text prompts. The detailed steps of installation and model inference are in the following.
 
-## Create Environment
+## 1. Create Environment
 
 Recommend to use [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) here.
    ```
@@ -14,7 +14,7 @@ Recommend to use [Conda](https://docs.conda.io/projects/conda/en/latest/user-gui
    conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=11.8 -c pytorch -c nvidia
    ```
 
-## Packages Installation
+## 2. Packages Installation
 
 Step 1.
 ```
@@ -25,9 +25,15 @@ Step 2.
 pip install -r requirements.txt
 ```
 
-## Download LoRA file
+## 3. Download LoRA file
 
+Step 1.
 [Download link](https://drive.google.com/file/d/1MiaG8v0ZmkTwwrzIEFtVoBj-Jjqi_5lz/view) of LoRA from [StitchDiffusion](https://github.com/littlewhitesea/StitchDiffusion)
+
+Step 2.
+```
+python lora_modified.py
+```
 
 
  
