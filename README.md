@@ -3,7 +3,7 @@
 
 #### [Attention] It seems this colab is not working due to the updated google colab again, I don't plan to fix it. 
 
-### I have implemented stitchdiffusion based on diffusers to generate 360-degree panoramas through text prompts.
+### I have implemented stitchdiffusion based on diffusers to generate 360-degree panoramas through text prompts. The detailed steps of installation and model inference are in the following.
 
 ## Create Environment
 
