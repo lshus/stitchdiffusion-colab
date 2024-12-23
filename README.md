@@ -30,7 +30,7 @@ pip install -r requirements.txt
 Step 1.
 [Download link](https://drive.google.com/file/d/1MiaG8v0ZmkTwwrzIEFtVoBj-Jjqi_5lz/view) of LoRA from [StitchDiffusion](https://github.com/littlewhitesea/StitchDiffusion)
 
-Step 2. (Since I implemented it based on diffusers, some key names in the LoRA require to be changed for consistency. Before you run lora_modified.py, remember to modify "YOUR_PATH" in this file.)
+Step 2. (Since I implemented it based on diffusers, some key names in the LoRA require to be changed for consistency. Before you run lora_modified.py, remember to modify "YOUR_PATH" in this file. Finally, you can get a file called "lora_modified.safetensors", which will be used later.)
 ```
 python lora_modified.py
 ```
