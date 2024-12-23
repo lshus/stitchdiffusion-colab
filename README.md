@@ -35,6 +35,8 @@ Step 2. (Since I implemented it based on diffusers, some key names in the LoRA r
 python lora_modified.py
 ```
 
+## 4. 360 Panorama Generation.
+
 
  
 Many thanks to [kohya-trainer](https://github.com/Linaqruf/kohya-trainer), [StitchDiffusion](https://github.com/littlewhitesea/StitchDiffusion) and [diffusers](https://github.com/huggingface/diffusers) for their open-source code. 
