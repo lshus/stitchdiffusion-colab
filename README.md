@@ -1,7 +1,8 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lshus/stitchdiffusion-colab/blob/main/colab_stitchdiffusion.ipynb) 
  
 
-#### [Attention] It seems this colab is not working due to the updated google colab again, I don't plan to fix it. 
+#### [Attention] It seems this colab is not working due to the updated google colab again, I don't plan to fix it.
+#### [Next Step] To achieve 2K (2048x1024) resolution of 360-degree panorama based on SDXL+StitchDiffusion.
 
 ### I have implemented stitchdiffusion based on diffusers to generate 360-degree panoramas through text prompts. The detailed steps of installation and model inference are in the following.
 
