@@ -9,8 +9,8 @@
 
 Recommend to use [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) here.
    ```
-   conda create -n stitch python=3.9
-   conda activate stitch
+   conda create -n stitchdiffusion python=3.9
+   conda activate stitchdiffusion
    conda install pytorch==2.1.0 torchvision==0.16.0 torchaudio==2.1.0 pytorch-cuda=11.8 -c pytorch -c nvidia
    ```
 
