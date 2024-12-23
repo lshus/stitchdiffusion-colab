@@ -7,6 +7,7 @@
 
 ## Create Environment
 
+Recommend to use [Conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) here.
    ```
    conda create -n stitch python=3.9
    conda activate stitch
