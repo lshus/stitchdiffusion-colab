@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 ## Download LoRA file
 
-[Download link] (https://drive.google.com/file/d/1MiaG8v0ZmkTwwrzIEFtVoBj-Jjqi_5lz/view) of LoRA from [StitchDiffusion](https://github.com/littlewhitesea/StitchDiffusion)
+[Download link](https://drive.google.com/file/d/1MiaG8v0ZmkTwwrzIEFtVoBj-Jjqi_5lz/view) of LoRA from [StitchDiffusion](https://github.com/littlewhitesea/StitchDiffusion)
 
 
  
