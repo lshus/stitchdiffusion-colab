@@ -36,6 +36,11 @@ python lora_modified.py
 ```
 
 ## 4. 360 Panorama Generation.
+```
+python stitchdiffusion_360_gen.py
+```
+
+
 
 
  
