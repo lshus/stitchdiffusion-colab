@@ -16,6 +16,15 @@ Recommend to use [Conda](https://docs.conda.io/projects/conda/en/latest/user-gui
 
 ## Packages Installation
 
+Step 1.
+```
+git clone https://github.com/lshus/stitchdiffusion-colab.git
+```
+Step 2.
+```
+pip install -r requirements.txt
+```
+
 
  
 Many thanks to [kohya-trainer](https://github.com/Linaqruf/kohya-trainer), [StitchDiffusion](https://github.com/littlewhitesea/StitchDiffusion) and [diffusers](https://github.com/huggingface/diffusers) for their open-source code. 
