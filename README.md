@@ -25,6 +25,10 @@ Step 2.
 pip install -r requirements.txt
 ```
 
+## Download LoRA file
+
+[download link of LoRA](https://drive.google.com/file/d/1MiaG8v0ZmkTwwrzIEFtVoBj-Jjqi_5lz/view) from [StitchDiffusion](https://github.com/littlewhitesea/StitchDiffusion)
+
 
  
 Many thanks to [kohya-trainer](https://github.com/Linaqruf/kohya-trainer), [StitchDiffusion](https://github.com/littlewhitesea/StitchDiffusion) and [diffusers](https://github.com/huggingface/diffusers) for their open-source code. 
