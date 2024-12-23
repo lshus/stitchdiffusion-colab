@@ -1,0 +1,7 @@
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+peft
+numpy==1.24.1
