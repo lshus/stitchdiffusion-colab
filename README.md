@@ -39,7 +39,7 @@ Step 2. (Since I implemented it based on diffusers, some key names in the LoRA r
 python lora_modified.py
 ```
 
-## 4. 360 Panorama Generation.
+## 4. 360 Panorama Generation
 
 Step 1. Remeber to change "YOUR_PATH" in this stitchdiffusion_360_gen.py.
 
