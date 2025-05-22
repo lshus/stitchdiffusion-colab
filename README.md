@@ -3,7 +3,6 @@
 
 #### [Attention] This colab is not working due to the updated google colab again, I don't plan to fix it.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lshus/stitchdiffusion-colab/blob/main/colab_stitchdiffusion.ipynb) 
-#### [Next Step] To achieve 2048x1024 (2K) 360-degree panorama based on SDXL+StitchDiffusion in Feb 2025.
 
  
 
