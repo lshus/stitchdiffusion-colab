@@ -41,7 +41,7 @@ python lora_modified.py
 
 ## 4. 360 Panorama Generation
 
-Step 1. Remeber to change "YOUR_PATH" in this stitchdiffusion_360_gen.py.
+Step 1. Remember to change "YOUR_PATH" in this stitchdiffusion_360_gen.py.
 
 Step 2. Specify the input prompt. (360-degree panoramic image is the trigger word, if you want to generate a 360-degree panorama, the input prompt should include it.)
 
